@@ -6,13 +6,16 @@ You task is to determune the maximum number of operations that can be performed 
 
 ### Conditions:
 1. Transactions(T): 0 < T < 10^8
-2. Number: 0 < a, b, c < 10^8
+2. Numbers: 0 < a, b, c < 10^8
 
 ### Sample Input:
+```
 Number of Transactions: 2
 1 2 5
 2 3 4
-
+```
 ### Sample Output:
+```
 3
 4
+```
